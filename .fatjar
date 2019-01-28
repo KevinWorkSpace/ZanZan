@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Jan 28 20:17:15 CST 2019
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ZanZan_fat.jar
+manifest.mergeall=true
+manifest.mainclass=application.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
